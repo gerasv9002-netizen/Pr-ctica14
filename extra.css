@@ -1,0 +1,10 @@
+table {
+  width: auto; /* La tabla se ajusta automáticamente al contenido */
+  border-collapse: collapse; /* Elimina el espacio entre celdas */
+}
+
+table img {
+  width: 100%; /* La imagen ocupa el 100% del ancho de la celda */
+  height: auto; /* La altura se ajusta automáticamente */
+  display: block; /* Elimina el espacio adicional debajo de la imagen */
+}
